@@ -81,5 +81,3 @@ ggplot(data = meanStepsByDay, aes(x = interval, y = steps)) +
   xlab("5-minute Interval") +
   ylab("Average Number of Steps") +
   theme(plot.title = element_text(hjust = 0.5))
-  
-
