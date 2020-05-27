@@ -189,3 +189,4 @@ ggplot(data = meanStepsByDay, aes(x = interval, y = steps)) +
 ```
 
 ![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8-1.png)![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8-2.png)
+https://github.com/KalpanaDas/RepData_PeerAssessment1/blob/master/Panel%20plot%20comparing%20the%20average%20number%20of%20steps%20taken%20per%205-minute%20interval%20across%20weekdays%20and%20weekends.png
